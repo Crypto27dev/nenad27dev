@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nenad Rašić</h1>
-<h3 align="center">Frontend Developer | Backend Developer | Blockchain Developer</h3>
+<h2 align="center">Frontend Developer | Backend Developer | Blockchain Developer</h2>
 <div>
-  <h4>As a Software Developer, I have a lot of experiences in Web application Development and Blockchain Development.</h4>
+  <h3>As a Software Developer, I have a lot of experiences in Web application Development and Blockchain Development.</h3>
 
   <h3>💬 Ask me about **Web Development and Blockchain Development**</h3>
 
