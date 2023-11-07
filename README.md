@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior Web developer with 8+ years of experience and Blockchain developer with 3+ years of experience.<br>Web and Blockchain expert adept in all stages of advanced development. Knowledgeable in user interface, testing and debugging processes. Equipped with a diverse and promising web development skill-set. Highly skilled blockchain professional bringing enormous talents of development of DEX, DeFi, Stacking, Farming and NFT marketplace. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.<br>
+Web developer with 8+ years of experience and Blockchain developer with 3+ years of experience.<br>Web and Blockchain expert adept in all stages of advanced development. Knowledgeable in user interface, testing and debugging processes. Equipped with a diverse and promising web development skill-set. Highly skilled blockchain professional bringing enormous talents of development of DEX, DeFi, Stacking, Farming and NFT marketplace. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.<br>
 
 
 # 💻 Tech Stack:
